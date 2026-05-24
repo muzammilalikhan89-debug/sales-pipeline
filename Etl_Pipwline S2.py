@@ -1,7 +1,6 @@
 """
 STEP 2 — ETL PIPELINE (Extract → Transform → Load)
 ====================================================
-This is the most important skill for a Deloitte Data Analyst.
 Real client data is always messy. Your job is to clean it and load it
 into a structured database (here: SQLite, same concepts as SQL Server).
 
