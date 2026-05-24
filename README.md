@@ -1,6 +1,6 @@
 # Sales Pipeline
 
-A Deloitte-style sales data pipeline project that generates raw data, cleans and loads it into SQL, performs KPI analysis, and exports a dashboard.
+A sales data pipeline project that generates raw data, cleans and loads it into SQL, performs KPI analysis, and exports a dashboard.
 
 ## Project structure
 
