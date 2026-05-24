@@ -2,7 +2,7 @@
 STEP 3 — SQL ANALYSIS QUERIES
 ==============================
 After loading data into the database, you write SQL to answer business questions.
-This is exactly what Deloitte analysts do — turning raw data into KPIs for clients.
+This is exactly alysts do — turning raw data into KPIs for clients.
 
 What this teaches:
 - Writing real analytical SQL (GROUP BY, CTEs, window functions)
