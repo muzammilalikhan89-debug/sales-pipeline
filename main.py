@@ -27,7 +27,7 @@ def run_step(number, name, module_path):
 
 if __name__ == "__main__":
     print("\n" + "="*60)
-    print("  DELOITTE SALES DATA PIPELINE")
+    print(" SALES DATA PIPELINE")
     print("  ETL + SQL Analysis + Dashboard")
     print("="*60)
 
